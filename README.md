@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JAVASCRIPT.<br>👯 I’m looking to collaborate on anything that has to do with software development.<br>🌱 I’m currently learning JAVASCRIPT and SQL<br>💬 Ask me about HTML, CSS.<br>⚡ Fun fact - I am very creative and loves to design
+🔭 I’m currently working on C Programming.<br>👯 I’m looking to collaborate on anything that has to do with software development.<br>🌱 I’m currently learning C ProgrammPing. <br>💬 Ask me about HTML, CSS, JAVASCRIPT.<br>⚡ Fun fact - I am very creative and loves to design
 
 
 # 💻 Tech Stack:
