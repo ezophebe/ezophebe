@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A creative Web Developer<br>👯 I’m looking to collaborate on anything that has to do with software development.<br>💬 Ask me about HTML, CSS, JAVASCRIPT.<br>⚡ Fun fact - I am very creative and loves to design
+🔭 Software Engineer. A creative Web Developer<br>👯 I’m looking to collaborate on anything that has to do with software development.<br>💬 Ask me about HTML, CSS, JAVASCRIPT.<br>⚡ Fun fact - I am very creative and loves to design
 
 
 # 💻 Tech Stack:
